@@ -1,0 +1,7 @@
+# Copy this file, rename it for the model, and replace only the placeholders.
+# Store the API key in the environment variable named by api_key_env.
+llm_type: "OpenAiChatLLM"
+base_url: "https://your-provider.example/v1"
+api_key_env: "YOUR_PROVIDER_API_KEY"
+model_name: "your-model-name"
+temperature: 0.2

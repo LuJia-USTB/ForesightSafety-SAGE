@@ -1,0 +1,4 @@
+llm_type: "OpenAiChatLLM"
+base_url:
+api_key_env: "YOUR_PROVIDER_API_KEY"
+model_name: "gpt-4o-mini"
