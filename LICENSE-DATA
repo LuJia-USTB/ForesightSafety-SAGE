@@ -1,0 +1,13 @@
+ForesightSafety-SAGE Benchmark Data License
+
+Unless otherwise noted, the benchmark data under the data/ directory are
+licensed under the Creative Commons Attribution 4.0 International License
+(CC BY 4.0).
+
+License: https://creativecommons.org/licenses/by/4.0/
+
+This license applies to the benchmark data only. It does not apply to the
+software source code, which is licensed separately under the MIT License.
+
+When using the benchmark data, please cite the ForesightSafety-SAGE paper as
+described in the repository README.

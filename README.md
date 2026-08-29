@@ -56,8 +56,6 @@ Every scenario is evaluated under two authority contexts:
 
 The main experiment evaluates 12 target models in both contexts, yielding 2,144 episodes per model and `1,072 × 12 × 2 = 25,728` target-agent episodes in total.
 
-See [DATA.md](DATA.md) for the data layout and schema.
-
 ## Repository structure
 
 ```text
@@ -150,6 +148,12 @@ python scripts/run/rejudge_results.py \
   --binary-labels \
   --workers 4
 ```
+
+## License
+
+The source code in this repository is licensed under the [MIT License](LICENSE).
+
+The benchmark data under `data/` are licensed under the [Creative Commons Attribution 4.0 International License](LICENSE-DATA).
 
 ## Citation
 
